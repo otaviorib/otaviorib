@@ -16,9 +16,3 @@ Sou um iniciante em programação, amo jogos indies, e um dia vou criar um game 
 </div>
 
 ---
-
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorib&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=otaviorib&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
