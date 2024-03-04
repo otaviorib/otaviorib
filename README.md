@@ -9,8 +9,8 @@
 
 <h3 align="left">Me encontre aqui</h3>
 <p align="left">
-<a href="https://linkedin.com/in/otávioribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavioribeiro" height="30" width="40" /></a>
-<a href="https://instagram.com/otavio.mov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otavio.mov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/otávio-ribeiro-8b57582b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavioribeiro" height="30" width="40" /></a>
+<a href="https://www.instagram.com/otaviomov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otavio.mov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
