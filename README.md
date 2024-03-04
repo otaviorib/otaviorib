@@ -1,15 +1,15 @@
 <img src = "giphy.gif" width = "335px" align = "right">
 
-<h1 align="center">Hi 👋, I'm Otávio</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Olá 👋, Sou o Otávio!</h1>
+<h3 align="center">Um estudante iniciante em frontend do Brasil</h3>
 
-- 🌱 I’m currently learning **HTML5 | CSS3 | JavaScript**
+- 🌱 Atualmente estou aprendendo **HTML5 | CSS3 | JavaScript**
 
-- ⚡ Fun fact **Eu sou uma pessoa muito criativa e amo jogos indies!**
+- ⚡ Fun fact **Eu sou uma pessoa  criativa e amo jogos indies!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me encontre aqui</h3>
 <p align="left">
-<a href="https://linkedin.com/in/otavioribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavioribeiro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/otávioribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavioribeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/otavio.mov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otavio.mov" height="30" width="40" /></a>
 </p>
 
