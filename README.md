@@ -2,7 +2,7 @@
 
 # 🌌 Olá visitante, é uma honra ter você aqui!
  <div id="badges">
-  <a href = "https://github.com/otaviorib">
+  <a href = "https://linkedin.com/in/otávio-ribeiro-8b57582b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
