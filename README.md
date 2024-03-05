@@ -27,11 +27,14 @@
 
  <hr/>
  
-<h2 align="center">👨‍💻 Linguagens</h2>
+<h2 align="center">👨‍💻 Linguagens e ferramentas 👨‍💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
+  </a>
+</p>
 </div>
 
 <br/>
@@ -40,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/otaviorib/otaviorib/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
