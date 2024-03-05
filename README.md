@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoa!+👋;+Eu+Sou+O+Otávio!;" />
 </h1>
 
-<h3 align="center">Sou um estudante de programação que quer muito um dia fazer disso o meu trabalho :)</h3>
+<h2 align="center">Sou um estudante de programação que quer muito um dia fazer disso o meu trabalho :)</h3>
 
 <br/>
 
