@@ -1,5 +1,3 @@
-<img src = "giphy.gif" width = "335px" align = "right">
-
 <h1 align="center">Olá 👋, Sou o Otávio!</h1>
 <h3 align="center">Um estudante iniciante em frontend do Brasil</h3>
 
